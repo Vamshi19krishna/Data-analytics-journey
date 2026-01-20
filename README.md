@@ -24,7 +24,7 @@ real-world Excel features used by Data Analysts.
   ---
 
 Excel-Daily-Practice/
-│
+
 ├── Day_01_Basics/
 ├── Day_02_Data_Cleaning/
 ├── Day_03_Pivot_Tables/

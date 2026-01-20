@@ -21,4 +21,48 @@ real-world Excel features used by Data Analysts.
 - KPI Dashboards
 - Data Validation
 
+  ---
+
+Excel-Daily-Practice/
+│
+├── Day_01_Basics/
+├── Day_02_Data_Cleaning/
+├── Day_03_Pivot_Tables/
+├── Day_04_Lookup_Functions/
+├── Day_05_Power_Query/
+├── Dashboards/
+└── Datasets/
+
+---
+
+## 🧠 Learning Objective
+
+- Strengthen Excel skills required for **Data Analyst roles**
+- Practice transforming raw data into meaningful insights
+- Build reports and dashboards for decision-making
+- Maintain consistency through daily hands-on practice
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel
+- Power Query
+- GitHub
+
+---
+
+## 📌 Notes
+
+- All datasets used are either **public datasets** or **synthetic data** created for practice.
+- Files are updated regularly as part of my daily learning routine.
+
+---
+
+## 🔗 Author
+
+**Vamshi Krishna**  
+Data Analyst | SQL | Excel | Power BI | Python  
+LinkedIn: https://linkedin.com/in/vamshi-krishna-177b6b221
+
 

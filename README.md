@@ -82,6 +82,6 @@ Each project focuses on **real-world business scenarios** and actionable insight
 Data Analyst | SQL | Excel | Power BI | Python  
 
 🔗 LinkedIn: https://linkedin.com/in/vamshi-krishna-177b6b221  
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/Vamshi19krishna
 
 
